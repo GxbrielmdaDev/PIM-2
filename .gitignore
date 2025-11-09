@@ -1,0 +1,52 @@
+# Dependências
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Arquivos de build
+dist/
+build/
+*.egg-info/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dados temporários (manter estrutura mas não dados específicos)
+# data/*.json
+
+# Cache
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Arquivos de teste
+coverage/
+*.coverage
+.nyc_output/
+
+# Arquivos temporários
+*.tmp
+*.temp

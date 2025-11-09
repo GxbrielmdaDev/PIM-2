@@ -1,0 +1,103 @@
+{
+  "notifications": [
+    {
+      "id": "notif001",
+      "user_id": "aluno001",
+      "title": "Bem-vindo ao Planner Edu",
+      "message": "Seja bem-vindo! Aqui você pode acompanhar suas notas, eventos e muito mais.",
+      "type": "info",
+      "read": true,
+      "created_at": "2024-01-01T00:00:00Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif002",
+      "user_id": "aluno002",
+      "title": "Bem-vindo ao Planner Edu",
+      "message": "Seja bem-vindo! Aqui você pode acompanhar suas notas, eventos e muito mais.",
+      "type": "info",
+      "read": false,
+      "created_at": "2024-01-01T00:00:00Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif003",
+      "user_id": "aluno003",
+      "title": "Bem-vindo ao Planner Edu",
+      "message": "Seja bem-vindo! Aqui você pode acompanhar suas notas, eventos e muito mais.",
+      "type": "info",
+      "read": false,
+      "created_at": "2024-01-01T00:00:00Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_f80ef44a",
+      "user_id": "aluno001",
+      "title": "Nova nota lançada: NP1 (Primeira Prova)",
+      "message": "Sua nota em NP1 (Primeira Prova) foi lançada: 7.0. Acesse a página de notas para ver mais detalhes.",
+      "type": "grade",
+      "read": true,
+      "created_at": "2025-11-09T19:27:06.153807Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_78de8570",
+      "user_id": "aluno001",
+      "title": "Nova nota lançada: NP2 (Segunda Prova)",
+      "message": "Sua nota em NP2 (Segunda Prova) foi lançada: 7.0. Acesse a página de notas para ver mais detalhes.",
+      "type": "grade",
+      "read": true,
+      "created_at": "2025-11-09T19:27:06.178565Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_6265ceb1",
+      "user_id": "aluno001",
+      "title": "Nova nota lançada: AVA (Atividades Virtuais)",
+      "message": "Sua nota em AVA (Atividades Virtuais) foi lançada: 7.0. Acesse a página de notas para ver mais detalhes.",
+      "type": "grade",
+      "read": true,
+      "created_at": "2025-11-09T19:27:06.199533Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_1663b0ba",
+      "user_id": "aluno001",
+      "title": "Nova nota lançada: PIM (Projeto Integrado)",
+      "message": "Sua nota em PIM (Projeto Integrado) foi lançada: 7.0. Acesse a página de notas para ver mais detalhes.",
+      "type": "grade",
+      "read": true,
+      "created_at": "2025-11-09T19:27:06.220462Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_4d26d98b",
+      "user_id": "aluno001",
+      "title": "Novo evento: Aula",
+      "message": "Foi criado um novo evento 'adad' para 09/11/2025 às 08:00 em Sala 501. Verifique seu calendário para mais detalhes.",
+      "type": "event",
+      "read": true,
+      "created_at": "2025-11-09T19:27:43.706440Z",
+      "scheduled_for": null,
+      "sent": true
+    },
+    {
+      "id": "notif_8561cc2a",
+      "user_id": "aluno002",
+      "title": "Novo evento: Aula",
+      "message": "Foi criado um novo evento 'adad' para 09/11/2025 às 08:00 em Sala 501. Verifique seu calendário para mais detalhes.",
+      "type": "event",
+      "read": false,
+      "created_at": "2025-11-09T19:27:43.706440Z",
+      "scheduled_for": null,
+      "sent": true
+    }
+  ]
+}

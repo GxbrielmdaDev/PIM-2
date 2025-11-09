@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "id": "event_00bd861b",
+      "type": "aula",
+      "title": "adad",
+      "description": "adadad",
+      "class_id": "turma_a",
+      "professor_id": "prof001",
+      "date": "2025-11-09T08:00:00Z",
+      "duration": 90,
+      "location": "Sala 501",
+      "grade_type": null,
+      "due_date": null,
+      "created_at": "2025-11-09T19:27:43.704447Z"
+    }
+  ]
+}

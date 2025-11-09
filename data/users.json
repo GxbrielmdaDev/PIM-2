@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "prof001",
+      "username": "professor1",
+      "password": "senha123",
+      "role": "professor",
+      "name": "Prof. João Silva",
+      "email": "joao.silva@universidade.edu.br",
+      "phone": "(11) 99999-0001",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "prof002",
+      "username": "professor2",
+      "password": "senha123",
+      "role": "professor",
+      "name": "Prof. Maria Santos",
+      "email": "maria.santos@universidade.edu.br",
+      "phone": "(11) 99999-0002",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "aluno001",
+      "username": "aluno1",
+      "password": "123456",
+      "role": "aluno",
+      "name": "Pedro Oliveira",
+      "email": "pedro.oliveira@aluno.edu.br",
+      "phone": "(11) 99999-1001",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "aluno002",
+      "username": "aluno2",
+      "password": "123456",
+      "role": "aluno",
+      "name": "Ana Costa",
+      "email": "ana.costa@aluno.edu.br",
+      "phone": "(11) 99999-1002",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "aluno003",
+      "username": "aluno3",
+      "password": "123456",
+      "role": "aluno",
+      "name": "Carlos Ferreira",
+      "email": "carlos.ferreira@aluno.edu.br",
+      "phone": "(11) 99999-1003",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
